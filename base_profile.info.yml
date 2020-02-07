@@ -1,8 +1,9 @@
-# Drupal 8 - Base profile
+name: base_profile
+type: profile
+description: 'Base Profile'
+core: 8.x
 
-This profile is meant to help starting a new Drupal project.
-
-Starting modules:
+dependencies:
   - node
   - block
   - ckeditor
@@ -38,5 +39,3 @@ Starting modules:
   - pathauto
   - token
   - webform
-
-

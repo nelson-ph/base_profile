@@ -1,0 +1,15 @@
+langcode: en
+status: false
+dependencies: {  }
+id: environment
+label: Environment
+description: ''
+folder: ../config/splits/environment
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist:
+  - system.file
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
