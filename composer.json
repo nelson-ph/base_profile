@@ -1,6 +1,6 @@
 {
     "name": "nelsonpireshassanali/base_profile",
-    "description": "Drupal 8 base profile",
+    "description": "Drupal 9 base profile",
     "type": "drupal-profile",
     "license": "MIT",
     "authors": [
