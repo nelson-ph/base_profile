@@ -33,7 +33,6 @@ Starting modules:
   - devel_php
   - environment_indicator
   - menu_block
-  - multiline_config
   - paragraphs
   - pathauto
   - token
