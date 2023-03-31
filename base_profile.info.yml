@@ -1,7 +1,6 @@
 name: base_profile
 type: profile
 description: 'Base Profile'
-core: 8.x
 core_version_requirement: ^9 || ^10
 
 dependencies:
