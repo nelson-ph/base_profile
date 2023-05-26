@@ -13,6 +13,5 @@
  * @see system_install()
  */
 function base_profile_install() {
-  \Drupal::service('theme_installer')->install(['adminimal_theme']);
-  // Add code here to make nodes, terms, etc.
+
 }

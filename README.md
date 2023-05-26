@@ -1,16 +1,13 @@
-# Drupal 8 - Base profile
+# Drupal 10 - Base profile
 
 This profile is meant to help starting a new Drupal project.
 
 Starting modules:
   - node
   - block
-  - ckeditor
   - config
   - contextual
-  - menu_link_content
   - datetime
-  - quickedit
   - editor
   - image
   - menu_ui
@@ -27,15 +24,10 @@ Starting modules:
   - views
   - views_ui
   - automated_cron
-  - adminimal_admin_toolbar
-  - block_visibility_groups
   - config_split
   - devel_php
   - environment_indicator
-  - menu_block
   - paragraphs
-  - pathauto
   - token
-  - webform
 
 
